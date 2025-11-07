@@ -1,4 +1,4 @@
-# Kafka KRaft + Java (Maven) Demo
+# Event Streaming com Apache Kafka + Java
 
 Projeto de demonstração para trabalho da disciplina de Sistemas Distribuidos:
 **Event Streaming com Apache Kafka – partições e consumer groups**
